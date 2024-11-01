@@ -1,2 +1,2 @@
-# C++
-Here is full course of C++ for beginner
+# programming language
+Here is full course of programming language for beginner
